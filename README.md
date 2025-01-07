@@ -1,4 +1,4 @@
-# Atliq-Hardwares-Analysis
+# Profit and Loss Analysis
 Profit &amp; Loss Analysis (FY 2021)
 This project analyzes the financial performance of Atliq Hardwares across various global markets for the fiscal year 2021. The analysis includes key metrics such as net sales, cost of goods sold (COGS), gross margin, and gross margin percentage (GM%).
 Dataset Overview
